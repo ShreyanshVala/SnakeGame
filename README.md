@@ -1,3 +1,3 @@
 # SnakeGame 🐍🚀
 
-<h1>Click Here To Play</h1>
+<h3>Click Here To Play </h3>
